@@ -1,3 +1,9 @@
+
+
+```bash
+pip install PyWavelets
+```
+
 The file BP.py is the standalone BP solver.
 Comparison.py is the example with the phantom (without L1 to simplify).
 To use just type "python comparison.py" or "./comparison.py" in the terminal.
